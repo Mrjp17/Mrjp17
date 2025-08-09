@@ -2,7 +2,6 @@
 - 👀 I’m interested in Izayoi Nonomi	
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on norenapi and py5paisa
-- 📫 How to reach me mrjiophone@gmail.com
 - 😄 Pronouns: Nonomi's husband
 - ⚡ Fun fact: 'Fun things are fun'
 
